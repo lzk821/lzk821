@@ -23,9 +23,7 @@
 
 
 
-我比较喜欢折腾，熟悉但**不精通**于以下技能（按接触时间先后）:
+喜欢编程，正在努力学习但**不精通**于以下技能（按接触时间先后）:
 
-VB、C、Altum Designer、Code Composer Studio、STM32、STEP7、Java、JQuery、AngularJS、Bootstrap、Struts、Hibernate、MySQL、SpringBoot、Redis、SpringCloud、Netty、Docker、K8s、PHP、Final Cut Pro、RabbitMQ、Mybatis、Rancher、Vue、UniApp、Oracle、Python、Flask、NextJ、TailWindCSS。
+html,python,flask,uniapp
 
-
-出于自学和爱好，我会在Github上开源一些小项目，我的期望是按自己喜欢研究一些有趣的东西，欢迎邮件或留言与我交流。
