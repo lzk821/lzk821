@@ -1,16 +1,16 @@
 ### Hello，我是liash
 
-一名普通的程序员，电气工程自动化专业，自学编程后从事了5年的软件开发工作，目前在找项目创业，欢迎交流。
+一名正在努力学习编程的计科生。
 
 <div align="center">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tangly1024&theme=github" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lzk821&theme=github" />
   </a>
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tangly1024&theme=github" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lzk821&theme=github" />
   </a>
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tangly1024&theme=github" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lzk821&theme=github" />
   </a>
 </div>
 
