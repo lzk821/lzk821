@@ -25,5 +25,5 @@
 
 喜欢编程，正在努力学习但**不精通**于以下技能（按接触时间先后）:
 
-html,python,flask,uniapp
+html,css,JavaScript,python,flask,vue,uniapp
 
